@@ -1,6 +1,6 @@
 **Project Summary**
 
-This project delivers a single-page Data Survey Breakdown dashboard whose purpose is to turn raw survey responses into quick, decision-ready insights about the data community—who the respondents are, how they’re paid, what they prefer, and how they feel. It highlights respondent volume and age, compares average salary by job title to understand role-based pay, profiles audience geography via a country treemap, reveals favorite programming languages (with job-title context), and surfaces sentiment on work/life balance and salary satisfaction. The aim is to give hiring managers, educators, and community organizers an immediate, trustworthy picture that can guide talent planning, curriculum focus, and engagement strategies.
+This project delivers a single-page Data Survey Breakdown dashboard whose purpose is to turn raw survey responses into quick, decision-ready insights about the data community, who the respondents are, how they’re paid, what they prefer, and how they feel. It highlights respondent volume and age, compares average salary by job title to understand role-based pay, profiles audience geography via a country treemap, reveals favorite programming languages (with job-title context), and surfaces sentiment on work/life balance and salary satisfaction. The aim is to give hiring managers, educators, and community organizers an immediate, trustworthy picture that can guide talent planning, curriculum focus, and engagement strategies.
 
 **ETL Process**
 
